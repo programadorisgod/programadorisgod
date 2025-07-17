@@ -1,7 +1,7 @@
 # 💫 About Me:
-Hola, soy Camilo Tapias 🚀. Empecé en la programación a mis 16 años. Actualmente me encuentro estudiando la carrera de ingeniería de sistemas. <br><br> 
-Uno de mis éxitos implica el desarrollo de una aplicacion web que se está convirtiendo en SaaS. <br><br>
-Como creador de contenido, estoy intentando aportar mi grano de arena, para que la comunidad latinoamericana, pueda mejorar como desarrolladores, pero sin dejar de ser buenas personas.
+Hola, soy Camilo Tapias 🚀. Empecé en la programación a mis 16 años de edad. Actualmente soy desarrollador fullstack freelancer.<br>
+Disfruto el trabajo en equipo y compartir con las persona. <br>
+Me gusta crer contenido, estoy intentando aportar mi grano de arena, para que la comunidad latinoamericana, pueda mejorar como desarrolladores, pero sin dejar de ser buenas personas.
 
 
 ## 🌐 Socials:
